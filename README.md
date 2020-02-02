@@ -1,3 +1,17 @@
+# Simples e facil paginação
+
+Pequeno projeto, utilizando Axios para consumir os dados do JsonPlaceHolder que me retorna um JSON com algumas informações e ReactJS para codificar a paginação.
+
+packages:
+- [Axios](https://www.npmjs.com/package/axios)
+- [Boostrap](https://getbootstrap.com/)
+
+Prévia online:
+- [Veja_online](https://www.google.com.br)
+
+
+==================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
