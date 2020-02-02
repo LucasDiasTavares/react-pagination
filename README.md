@@ -7,7 +7,7 @@ packages:
 - [Boostrap](https://getbootstrap.com/)
 
 Prévia online:
-- [Veja_online](https://www.google.com.br)
+- [Veja_online](https://lucastavares-react-pagination.netlify.com/)
 
 
 ==================================================
